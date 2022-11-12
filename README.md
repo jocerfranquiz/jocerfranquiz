@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Jocer
-- 👀 I’m interested in Python, machine learning, games, and machine learning
-- 🌱 I’m currently learning gamedev, GLSL and Rust
+- 👀 I’m interested in Python, machine learning, MLOps and gamedev
+- 🌱 I’m currently learning GLSL and Rust
 - 🎮 I'm playing Doom, Quake, Blasfemous, Anno> Mutationem, NieR: Automata
 - 📫 How to reach me @jocerfranquiz on twitter/discord
 
