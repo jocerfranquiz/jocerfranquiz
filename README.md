@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m pax
+- 👀 I’m interested in Python, machine learning, games, and machine learning
+- 🌱 I’m currently learning gamedev and Rust
+- 🎮 I'm playing Doom, Quake, Blasfemous, Anno> Mutationem, NieR: Automata
+- 📫 How to reach me @jocerfranquiz on twitter/discord
+
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
