@@ -4,7 +4,7 @@
 - 👀 I’m interested in Python, machine learning, MLOps and gamedev
 - 🌱 I’m currently learning GLSL and Rust
 - 🎮 I'm playing Doom, Quake, Blasfemous, Anno> Mutationem, NieR: Automata
-- 📫 How to reach me @jocerfranquiz on twitter
+- 📫 You can find me as @jocerfranquiz on twitter
 
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
