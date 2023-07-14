@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello
 
-- 👋 Hi, I’m Jocer
-- 😅 I’m curious about maths, algorithms, machine learning, and gamedev
-- 🌱 I’m currently learning modern C, compilers and interpreters
-- 🎮 I'm playing Doom, Quake, NieR: Automata
-- 📫 You can find me as `@jocerfranquiz` on twitter
+- Curious about maths, algorithms, and gamedev
+- Currently learning modern C, compilers and interpreters
+- You can find me as `@jocerfranquiz` on twitter
 
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
