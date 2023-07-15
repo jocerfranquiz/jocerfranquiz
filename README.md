@@ -1,7 +1,9 @@
 ### Hello, stranger. Pick one option:
 
 -> Talk about maths, algorithms, and gamedev
+
 -> Learn modern C, compilers, and interpreters
+
 -> Find me as `@jocerfranquiz` on Twitter
 
 <!--
