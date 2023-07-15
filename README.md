@@ -1,8 +1,8 @@
-### Hello
+### Hello, stranger. Pick one option:
 
-- Curious about maths, algorithms, and gamedev
-- Currently learning modern C, compilers and interpreters
-- You can find me as `@jocerfranquiz` on twitter
+-> Talk about maths, algorithms, and gamedev
+-> Learn modern C, compilers, and interpreters
+-> Find me as `@jocerfranquiz` on Twitter
 
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
