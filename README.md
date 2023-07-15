@@ -1,8 +1,10 @@
 ### Hello, stranger. Pick one option:
 
--> Talk about maths, algorithms, and gamedev
+-> Learn more about Algebra, Categories, Algorithms, Functional Programming
 
--> Learn modern C, compilers, and interpreters
+-> Create programs on Python, C, Lisp
+
+-> Craft compilers, and interpreters
 
 -> Find me as `@jocerfranquiz` on Twitter
 
