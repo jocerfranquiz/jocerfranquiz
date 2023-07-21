@@ -1,10 +1,10 @@
 ### Hello, stranger. Pick one option:
 
--> Learn more about Algebra, Categories, Algorithms, Functional Programming
+-> Learn more about Algebra, Categories, Algorithms, Programming
 
--> Create programs on Python, C, Lisp
+-> Create programs with Python, C, Lisp, BQN
 
--> Craft compilers, and interpreters
+-> Craft parsers, compilers, and interpreters
 
 -> Find me as `@jocerfranquiz` on Twitter
 
