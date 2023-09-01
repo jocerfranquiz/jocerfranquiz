@@ -1,12 +1,12 @@
-### Hello, stranger. Pick one option:
+### Hello,  I'm learning more about
 
--> Learn more about Algebra, Categories, Algorithms, Programming
+-> Algebra, Categories, Algorithms, Programming Languages
 
--> Create programs with Python, C, Lisp, BQN
+-> Python, C, Lisp, Scala
 
--> Craft parsers, compilers, and interpreters
+-> Crafting parsers, compilers, and interpreters
 
--> Find me as `@jocerfranquiz` on Twitter
+Find me as `@jocerfranquiz` on Twitter
 
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
