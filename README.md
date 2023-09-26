@@ -1,10 +1,16 @@
-### Hello,  I'm learning more about
+## Hello there!
 
--> Algebra, Categories, Algorithms, Programming Languages
+### I'm currently working with
+- Python, Scala
+- Graph databases
+- Large Language Models API integration
+- Distributed Computing
 
--> Python, C, Lisp, Scala
-
--> Crafting parsers, compilers, and interpreters
+### I'm learning more about
+- C and Lisp
+- Category Theory
+- Type Theory
+-  Crafting parsers, compilers, and interpreters
 
 Find me as `@jocerfranquiz` on Twitter
 
