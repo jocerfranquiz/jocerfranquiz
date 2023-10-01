@@ -3,14 +3,14 @@
 ### I'm currently working with
 - Python, Scala
 - Graph databases
-- Large Language Models API integration
+- Large Language Models
 - Distributed Computing
 
 ### I'm learning more about
 - C and Lisp
 - Category Theory
 - Type Theory
--  Crafting parsers, compilers, and interpreters
+- Crafting parsers, compilers, and interpreters
 
 Find me as `@jocerfranquiz` on Twitter
 
