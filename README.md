@@ -7,7 +7,7 @@
 - Distributed Computing
 
 ### I'm learning more about
-- C and Lisp
+- C / Lisp / Forth
 - Category Theory
 - Type Theory
 - Crafting parsers, compilers, and interpreters
