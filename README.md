@@ -1,13 +1,10 @@
-## Hello there!
-
-### I'm currently working with
-- Python, Scala
+## Currently working with
+- Python, C, Forth, Scala
 - Graph databases
 - Large Language Models
 - Distributed Computing
 
-### I'm learning more about
-- C / Lisp / Forth
+## Learning more about
 - Category Theory
 - Type Theory
 - Crafting parsers, compilers, and interpreters
