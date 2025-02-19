@@ -1,5 +1,5 @@
 ## Currently working with
-- Python, C, Forth, Scala
+- Python, Javascript, C, Scala, Forth
 - Graph databases
 - Large Language Models
 - Distributed Computing
