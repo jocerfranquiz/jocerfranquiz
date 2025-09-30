@@ -2,7 +2,7 @@
 - Azure, Databricks, Python
 - Relational/NoSQL/Graph databases
 - Preparation of Data platforms for AI
-- Traditional Big Data
+- Big Data & Analytics
 
 ## Learning more about
 - Low-level LLMs
