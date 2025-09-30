@@ -1,13 +1,15 @@
 ## Currently working with
-- Python, Javascript, C, Scala, Forth
-- Graph databases
-- Large Language Models
-- Distributed Computing
+- Azure, Databricks, Python
+- Relational/NoSQL/Graph databases
+- Preparation of Data platforms for AI
+- Traditional Big Data
 
 ## Learning more about
-- Category Theory
-- Type Theory
-- Crafting parsers, compilers, and interpreters
+- Low-level LLMs
+- Reinforcement Learning
+- Automation
+- Low-level programming
+
 
 Find me as `@jocerfranquiz` on Twitter
 
