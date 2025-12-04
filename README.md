@@ -5,10 +5,10 @@
 - Big Data & Analytics
 
 ## Learning more about
-- Low-level LLMs
+- Low-level programming
 - Reinforcement Learning
 - Automation
-- Low-level programming
+- Low-level small language models
 
 
 Find me as `@jocerfranquiz` on Twitter
