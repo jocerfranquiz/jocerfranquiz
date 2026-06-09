@@ -10,7 +10,7 @@
 - Reinforcement Learning
 - Automation
 
-Find me as `@jocerfranquiz` on Twitter or [https://www.linkedin.com/in/jocerfranquiz/](https://www.linkedin.com/in/jocerfranquiz/) on LinkedIn
+Find me as `@jocerfranquiz` on Twitter or [/jocerfranquiz](https://www.linkedin.com/in/jocerfranquiz/) on LinkedIn
 
 <!--
 **jocerfranquiz/jocerfranquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
